@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nama": "Sepatu Vantovel",
+    "deskripsi": "Sepatu keren yang biasa dipakai di kantor",
+    "gambar": "https://apollo-singapore.akamaized.net/v1/files/375t8gplwb4o-ID/image",
+    "harga": 300000
+  },
+  {
+    "id": 2,
+    "nama": "Sepatu Sneakers",
+    "deskripsi": "Disini adalah sepatu sneakers banyak macam dan bagus dipakai",
+    "gambar": "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "harga": 450000
+  },
+  {
+    "id": 3,
+    "nama": "Sepatu Kampusann",
+    "deskripsi": "Sepatu kampus yang dipakai semua anak kampus",
+    "gambar": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1539846935/bhiite1xqn3yiy120wfq.jpg",
+    "harga": 300000
+  },
+  {
+    "id": 4,
+    "nama": "Sepatu Bayik Cx",
+    "deskripsi": "Sepatu stylish buat anak bayik",
+    "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//93/MTA-10277560/oem_sepatu_bayi_perempuan_casual_converse_full01_fm8w781t.jpg",
+    "harga": 2750000
+  },
+  {
+    "id": 5,
+    "nama": "Sepatu rollerxsks",
+    "deskripsi": "Sepatu buatan xonpas yang keras dan sering buat orang jatuh",
+    "gambar": "https://images.unsplash.com/photo-1571032800240-1cc2e680b00c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHJvbGxlciUyMGJsYWRlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "harga": 1600000
+  }
+]

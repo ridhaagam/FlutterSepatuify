@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59023709353",
+    "project_id": "projectgatcha",
+    "storage_bucket": "projectgatcha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59023709353:android:c624aba46be77c12f485b8",
+        "android_client_info": {
+          "package_name": "com.example.mobile_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59023709353-e2grl87tbn4enlb73uun3er7fpva7mvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0t5_DjZz3qzhJeO9nd1bZltHVPYnDdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59023709353-e2grl87tbn4enlb73uun3er7fpva7mvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
